@@ -1,3 +1,5 @@
+
+package edu.bu.awssdk;
 import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.auth.profile.ProfileCredentialsProvider;
